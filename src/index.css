@@ -685,6 +685,11 @@ header{
        
         
        }
+
+       ul{
+        position: relative;
+        bottom: 40px;
+       }
        .column-1{
         position: relative;
         bottom: 600px;
