@@ -381,6 +381,8 @@ form {
 
 .star-rating {
     font-size: 1.2em;
+    position: relative;
+    bottom: 20px;
 
     .fa-solid {
         color: var(--start-selected);
@@ -628,7 +630,7 @@ header{
    margin-bottom: -800px;
     .container{
      position: relative;
-      
+      right: 10px;
      
      top: 160px;
     
@@ -672,7 +674,7 @@ header{
         }
        }
        .features-columns{
-       
+    
         
        }
 
@@ -680,12 +682,13 @@ header{
         list-style: none;
         position: relative;
         bottom: -45px;
+       
         
        }
        .column-1{
         position: relative;
-        top: -600px;
-        left:630.6px ;
+        bottom: 600px;
+        margin-left: 630px;
         font-size: 16px;
 
         img{
@@ -734,7 +737,7 @@ header{
         justify-content: flex-end;
         font-size: 16px;
         position: relative;
-        left: -4px;
+        left: -5px;
         top: -71rem;
 
         .data-security{
