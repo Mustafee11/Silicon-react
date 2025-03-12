@@ -28,7 +28,7 @@ const Header = () => {
         </div>
         
         <div className=' account-link'>
-        <LinkButton to="signin" text="sign in" color="purple" icon="bi bi-person" />
+        <LinkButton to="signin" text="Sign in/up" color="purple" icon="bi bi-person" />
         </div>
         <div className='hamburger-button'>
         <button > <i className="bi bi-list"></i></button>

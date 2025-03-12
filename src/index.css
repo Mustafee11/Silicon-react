@@ -206,7 +206,7 @@ a {
     background-color: transparent;
     border-color: transparent;
     color: var(--text);
-    padding: 8px 25px; 
+    padding: 4px 25px; 
     border-radius: 8px;
     display: flex;
     align-items: center;
