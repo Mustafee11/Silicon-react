@@ -997,8 +997,11 @@ header{
         }
 
         .btn {
-            width: 40%;
+            width: 33%;
+            
+            
             margin-top: 3rem;
+            
         }
     }
 }
